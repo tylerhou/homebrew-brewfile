@@ -43,7 +43,6 @@ cask "iterm2"
 cask "minikube"
 cask "ngrok"
 cask "sketch"
-cask "slack"
 cask "spotify"
 cask "sublime-text"
 
