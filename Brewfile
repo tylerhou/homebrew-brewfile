@@ -2,7 +2,6 @@ tap "caskroom/cask"
 tap "caskroom/versions"
 tap "homebrew/bundle"
 tap "homebrew/core"
-tap "homebrew/versions"
 tap "kryptco/tap"
 brew "ocaml"
 brew "clingo", link: false
